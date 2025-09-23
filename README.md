@@ -1,4 +1,4 @@
-¡Hola! Soy Alex, un científico de datos en formación con un pasado fascinante como traductor e intérprete especializado. 
+¡Hola! Soy Alex, un científico de datos en constante formación con una sólida trayectoria como traductor e intérprete especializado. **Mi especialidad:** Desentrañar las historias ocultas en palabras y números 🕵️‍♂️
 
 🌍 Con más de una década de experiencia en traducción estratégica, he trabajado en proyectos globales para ONGs y sectores de salud, adaptando contenido técnico y cultural con precisión. 
 
