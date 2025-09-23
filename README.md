@@ -1,6 +1,8 @@
-¡Hola! Soy Alex, un científico de datos en constante formación con una sólida trayectoria como traductor e intérprete especializado. **Mi especialidad:** Desentrañar las historias ocultas en palabras y números 🕵️‍♂️
+![](https://github.com/alexkhype/alexkhype/blob/main/github-header-banner.png)
 
-🌍 Con más de una década de experiencia en traducción estratégica, he trabajado en proyectos globales para ONGs y sectores de salud, adaptando contenido técnico y cultural con precisión. 
+🌍 Científico de datos en constante formación con una sólida trayectoria como traductor e intérprete especializado, he trabajado en proyectos globales para ONGs y sectores de salud, adaptando contenido técnico y cultural con precisión. 
+
+✨ **Mi especialidad:** Desentrañar las historias ocultas en palabras y números 🕵️‍♂️
 
 🇮🇳 Viví seis años en India, donde aprendí y enseñé tibetano, desarrollando una perspectiva única para resolver problemas complejos con creatividad y rigor.
 
