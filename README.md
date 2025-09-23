@@ -1,4 +1,4 @@
-![](https://github.com/alexkhype/alexkhype/blob/main/github-header-banner.png)
+![](https://github.com/alexkhype/alexkhype/blob/main/github-header-banner.jpg)
 
 🌍 Científico de datos en constante formación con una sólida trayectoria como traductor e intérprete especializado, he trabajado en proyectos globales para ONGs y sectores de salud, adaptando contenido técnico y cultural con precisión. 
 
