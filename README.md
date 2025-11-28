@@ -1,18 +1,18 @@
 ![](https://github.com/alexkhype/alexkhype/blob/main/banner.jpg)
 
-🌍 Científico de datos en constante formación con una sólida trayectoria como traductor e intérprete especializado, he trabajado en proyectos globales para ONGs y sectores de salud, adaptando contenido técnico y cultural con precisión. 
+🌍 **Analista y científico de datos junior** en formación continua, con experiencia previa en traducción e interpretación para ONGs y salud, aplicando precisión analítica a datos complejos. 
 
-✨ **Mi especialidad:** Desentrañar las historias ocultas en palabras y números 🕵️‍♂️
+✨ **Mi especialidad:** Limpieza ETL y visualizaciones que convierten datos crudos en KPIs estratégicos. 🕵️‍♂️
 
 🇮🇳 Viví seis años en India, donde aprendí y enseñé tibetano, desarrollando una perspectiva única para resolver problemas complejos con creatividad y rigor.
 
-📊 Recientemente completé un bootcamp en ciencia de datos en TripleTen, donde dominé herramientas como Python, Pandas, Matplotlib, Seaborn y Scikit-learn. 
+📊 Completé un **bootcamp en Data Science** en TripleTen, dominando Python, Pandas, Matplotlib, Seaborn y Scikit-learn para análisis *end-to-end*.
 
-🤓 Actualmente, estoy profundizando en estadística, SQL, Azure y AWS a través de certificaciones. 
+🤓 Certificacioness en progreso: SQL, estadística, PL-300 Power BI y AWS Practitioner para analytics.
 
 📙 Mis repositorios en GitHub muestran proyectos prácticos, desde modelos predictivos hasta visualizaciones de datos que impulsan decisiones estratégicas.
 
-🔬 Busco oportunidades como científico de datos en sectores como salud, ONGs o tecnología, donde pueda combinar mi capacidad analítica con mi pasión por generar impacto. 
+🔬 Busco oportunidades como científico de datos, donde pueda combinar mi capacidad analítica con mi pasión por generar impacto. 
 
 🧘 *Fun fact*: mi tiempo en India no solo me enseñó tibetano, ¡sino también a encontrar calma en el caos, ya sea en un dataset o en una meditación!
 
